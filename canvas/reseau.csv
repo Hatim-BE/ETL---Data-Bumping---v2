@@ -1,0 +1,22 @@
+id;region;libelle;direction_regionale_id
+1;F�s Taza;F�s Taza;1
+2;Mekn�s;Mekn�s;1
+3;CASA CENTRE;CASA CENTRE;2
+4;CASA EST;CASA EST;2
+5;CASA NORD;CASA NORD;2
+6;CASA SIDI BELYOUT;CASA SIDI BELYOUT;2
+7;CASA SUD;CASA SUD;2
+8;SETTAT EL JADIDA;SETTAT EL JADIDA;2
+9;Tanger Larache;Tanger Larache;3
+10;T�touan Al Hoceima;T�touan Al Hoceima;3
+11;Entreprises Rabat Sal� K�nitra;Entreprises Rabat Sal� K�nitra;4
+12;PP K�nitra Gharb;PP K�nitra Gharb;4
+13;PP Rabat Sal� T�mara;PP Rabat Sal� T�mara;4
+14;Nador;Nador;5
+15;Oujda-Berkane;Oujda-Berkane;5
+16;B�ni Mellal Kh�nifra;B�ni Mellal Kh�nifra;6
+17;Marrakech Safi;Marrakech Safi;6
+18;Tensift Daraa Tafilalet;Tensift Daraa Tafilalet;6
+19;Agadir Sahara;Agadir Sahara;7
+20;Souss Massa;Souss Massa;7
+9999;some_reseau;jsp;2
