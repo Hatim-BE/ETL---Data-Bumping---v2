@@ -1,2 +1,2 @@
 # ETL---Data-Bumping---v2
-same as the first repository with some changes for admin- access
+This project takes a specific file, namely the data extracted from the two housing websites and load it into a databse
